@@ -1,10 +1,11 @@
-<div align="left">
-<img src="https://2.bp.blogspot.com/-ziS54wTN3yQ/WtQjBP_UZTI/AAAAAAAALe4/Trcnj4vBp-QuL1T7NyMejSm4_oAtlleQQCLcBGAs/s1600/ciberseguridad.gif" align="right" style="width: 40%" />
+<table><tr><td valign="top" width="50%">
+
+<div align="center">
+<img src="" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Jairo Belen, a specialist in cybersecurity and backend
-development 👨‍💻 working remotely from Venezuela 🚀</div>  
+### <div align="center">I'm Jairo Belen, a specialist in cybersecurity and backend development 👨‍💻 working remotely from Venezuela 🚀</div>  
   
 
 - 🔭 I’m currently working on PAYA traslados  
@@ -17,7 +18,15 @@ development 👨‍💻 working remotely from Venezuela 🚀</div>
   
 
 - ⚡ Fun fact: I studied agronomic engineering and international cuisine  
-  
+
+
+</td><td valign="top" width="50%">
+
+<img src="https://2.bp.blogspot.com/-ziS54wTN3yQ/WtQjBP_UZTI/AAAAAAAALe4/Trcnj4vBp-QuL1T7NyMejSm4_oAtlleQQCLcBGAs/s1600/ciberseguridad.gif" align="left" height="" width="240
+" />  
+
+
+</td></tr></table>  
 
 <br/>  
 
@@ -109,6 +118,11 @@ development 👨‍💻 working remotely from Venezuela 🚀</div>
 
 <br/>  
 
+<div align="center"></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <div align="center"></div>
 <br />
 
