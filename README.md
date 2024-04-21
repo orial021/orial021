@@ -1,10 +1,5 @@
 <table><tr><td valign="top" width="50%">
 
-<div align="center">
-<img src="" align="center" style="width: 85%" />
-</div>  
-  
-
 ### <div align="center">I'm Jairo Belen, a specialist in cybersecurity and backend development 👨‍💻 working remotely from Venezuela 🚀</div>  
   
 
@@ -118,11 +113,6 @@
 
 <br/>  
 
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <div align="center"></div>
 <br />
 
