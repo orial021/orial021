@@ -6,12 +6,16 @@
 
 <h2 align="left">Hi 👋! My name is Jairo Belen and I'm a specialist in cybersecurity and backend development, from Venezuela.</h2>
 
-###
+- 🔭 I’m currently working on [PaYá traslados](http://payatraslados.com)  
+  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=orial021&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orial021&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 🌱 I’m currently learning Cybersecurity and fullstack development with React  
+  
+
+- ❓ Ask me about ISO 27001 and PCI/DSS certifications  
+  
+
+- 🤖  I'm looking to gain new experience in cybersecurity  
 
 ###
 
@@ -45,17 +49,30 @@
 
 ###
 
-<div align="left">
-  <a href="jairo02193@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/jairo-belen/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=orial021&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orial021&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/orial021/orial021/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="left" height="200" src="https://th.bing.com/th/id/OIP.LU1oiHgEFMcXpYmULoEovwHaFj?pid=ImgDet&w=191&h=143.25&c=7&dpr=1,3"  />
+
+###
+
+<div align="center">
+  <a href="jairo02193@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/jairo-belen/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
