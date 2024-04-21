@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://2.bp.blogspot.com/-ziS54wTN3yQ/WtQjBP_UZTI/AAAAAAAALe4/Trcnj4vBp-QuL1T7NyMejSm4_oAtlleQQCLcBGAs/s1600/ciberseguridad.gif" align="center" style="width: 100%" />
+<img src="https://2.bp.blogspot.com/-ziS54wTN3yQ/WtQjBP_UZTI/AAAAAAAALe4/Trcnj4vBp-QuL1T7NyMejSm4_oAtlleQQCLcBGAs/s1600/ciberseguridad.gif" align="right" style="width: 40%" />
 </div>  
   
 
