@@ -17,7 +17,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://2.bp.blogspot.com/-ziS54wTN3yQ/WtQjBP_UZTI/AAAAAAAALe4/Trcnj4vBp-QuL1T7NyMejSm4_oAtlleQQCLcBGAs/s1600/ciberseguridad.gif" align="left" height="" width="240
+<img src="https://2.bp.blogspot.com/-ziS54wTN3yQ/WtQjBP_UZTI/AAAAAAAALe4/Trcnj4vBp-QuL1T7NyMejSm4_oAtlleQQCLcBGAs/s1600/ciberseguridad.gif" align="left" height="" width="230
 " />  
 
 
@@ -97,7 +97,6 @@
 
 
 ## Recent Blog Posts  
-<img src="https://2.bp.blogspot.com/-ziS54wTN3yQ/WtQjBP_UZTI/AAAAAAAALe4/Trcnj4vBp-QuL1T7NyMejSm4_oAtlleQQCLcBGAs/s1600/ciberseguridad.gif" align="left" height="400" width="" />  
   
 
 <br/>  
