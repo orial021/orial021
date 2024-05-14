@@ -62,7 +62,6 @@
 
 ###
 
-<img align="left" height="200" src="https://th.bing.com/th/id/OIP.LU1oiHgEFMcXpYmULoEovwHaFj?pid=ImgDet&w=191&h=143.25&c=7&dpr=1,3"  />
 
 ###
 
