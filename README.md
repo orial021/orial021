@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [PaYá traslados](http://payatraslados.com)  
   
 
-- 🌱 I’m currently learning Cybersecurity and fullstack development with React  
+- 🌱 I am currently working on developing games using the Godot engine for cryptocurrency integration. 
   
 
 - ❓ Ask me about ISO 27001 and PCI/DSS certifications  
