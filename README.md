@@ -6,7 +6,7 @@
 
 <h2 align="left">Hi 👋! My name is Jairo Belen and I'm a specialist in cybersecurity and backend development, from Venezuela.</h2>
 
-- 🔭 I’m currently working on [PaYá traslados](http://payatraslados.com)  
+- 🔭 I’m currently studing a Cybersecurity master degree at CEUPE  
   
 
 - 🌱 I am currently working on developing games using the Godot engine for cryptocurrency integration. 
