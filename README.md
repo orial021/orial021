@@ -4,18 +4,18 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Jairo Belen and I'm a specialist in cybersecurity and backend development, from Venezuela.</h2>
+<h2 align="left">Hi 👋! My name is Jairo Belen and I'm a specialist in cybersecurity, Game Dev and backend development, from Venezuela.</h2>
 
-- 🔭 I’m currently studing a Cybersecurity master degree at CEUPE  
+- 🔭 Master in Cybersecurity
   
 
-- 🌱 I am currently working on developing games using the Godot engine for cryptocurrency integration. 
+- 🌱 I am currently working on developing games using the Godot engine
   
 
 - ❓ Ask me about ISO 27001 and PCI/DSS certifications  
   
 
-- 🤖  I'm looking to gain new experience in cybersecurity  
+- 🤖  I'm looking to gain new experience in cybersecurity
 
 ###
 
