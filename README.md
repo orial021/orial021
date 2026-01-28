@@ -11,7 +11,6 @@
 - 🎮 **Developing Aethelburg Chronicles**: 3D RPG with Godot + Nakama + FastAPI
 - ⚙️ **Backend Lead** for IoT elevator automation system (Node.js + Python)
 - 🧠 **Hyperspecialized** in transforming chaos into functional architectures
-- 🤖 **Neurodivergent** using AI as cognitive amplifier
 
 > *"Debugging complex realities: from elevator firmware to post-apocalyptic worlds"*
 
