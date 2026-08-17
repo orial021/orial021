@@ -5,14 +5,14 @@
 ###
 
 <h2 align="left">👋 Hi there! I'm Jairo Belén | Architect of Improbable Systems</h2>
-<h3 align="left">Cybersecurity Specialist | Fullstack Game Dev | Backend Engineer</h3>
+<h3 align="left">Senior Backend Architect | DevSecOps Consultant | MLOps Engineer</h3>
 
-- 🔐 **Master's in Cybersecurity** (CEUPE) | ISO 27001/22301 Auditor
-- 🎮 **Developing Aethelburg Chronicles**: 3D RPG with Godot + Nakama + FastAPI
-- ⚙️ **Backend Lead** for IoT elevator automation system (Node.js + Python)
-- 🧠 **Hyperspecialized** in transforming chaos into functional architectures
+- 🔐 **Master's in Cybersecurity** (CEUPE) | ISO 27001/22301 Internal Auditor
+- ☁️ **Backend Architect @ Codistica**: Scaling event-driven IoT systems handling 50K+ daily telemetry events (AWS, Node.js, OpenSearch)
+- 🎮 **Developing Borial Chronicles**: 3D RPG with Godot Engine, Go (Nakama), and FastAPI
+- 🧠 **Ethical Hacking Instructor**: Training corporate banking analysts in network infiltration and vulnerability mitigation.
 
-> *"Debugging complex realities: from elevator firmware to post-apocalyptic worlds"*
+> *"Debugging complex realities: from thread-safe microservices to zero-trust architectures."*
 
 ###
 
@@ -21,31 +21,32 @@
 <div align="center">
   <h3>🛠️ Multidimensional Tech Stack</h3>
   
-  #### 🌐 Backend & Cloud
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  #### 🌐 Backend, Cloud & Architecture
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go" title="Go" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="aws" title="AWS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" title="Redis" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" title="PostgreSQL" />
   
-  #### 🎮 Game Dev Ecosystem
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot" />
+  #### 🔒 Cybersecurity & DevSecOps
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux / Ubuntu / Kali" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="40" alt="heroku" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" height="40" alt="metasploit" title="Metasploit" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="40" alt="wireshark" title="Wireshark" />
   
-  #### 🔒 Cybersecurity Toolkit
-  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" height="40" alt="metasploit" />
+  #### 🎮 Game Dev & MLOps
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot" title="Godot Engine" />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="40" alt="wireshark" />
-  
-  #### ⚡ Fullstack & Utilities
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" title="TypeScript" />
 </div>
 
 ###
@@ -53,11 +54,19 @@
 <br clear="both">
 
 <div align="center">
-  <h3>🧪 Featured Project: Aethelburg Chronicles</h3>
-  <p>Post-apocalyptic 3D RPG with dynamic combat and fractal skill system</p>
-  <a href="https://github.com/orial021/aethelburg/releases/tag/lastest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=orial021&repo=aethelburg&theme=radical" alt="Repo Preview">
-  </a>
+  <h3>🧪 Featured Deployments</h3>
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <b>🔍 VzlaUnida (Humanitarian API Aggregator)</b><br>
+        <i>Deployed a high-availability search engine utilizing Redis caching, Caddy, Docker, and Fail2Ban to aggregate 20+ missing persons databases during a national crisis.</i>
+      </td>
+      <td align="center" width="50%">
+        <b>⚔️ Borial Chronicles (R&D)</b><br>
+        <i>Post-apocalyptic 3D RPG featuring automated Reinforcement Learning (RL) pipelines (Stable Baselines 3) and a custom Go-based Nakama server for real-time IPC.</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
@@ -71,7 +80,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/orial021/orial021/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/orial021/orial021/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
