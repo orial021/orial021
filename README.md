@@ -4,12 +4,12 @@
 
 ###
 
-<h2 align="left">👋 Hi there! I'm Jairo Belén | Architect of Improbable Systems</h2>
+<h2 align="left">I'm Jairo Belén | Architect of Systems</h2>
 <h3 align="left">Senior Backend Architect | DevSecOps Consultant | MLOps Engineer</h3>
 
 - 🔐 **Master's in Cybersecurity** (CEUPE) | ISO 27001/22301 Internal Auditor
 - ☁️ **Backend Architect @ Codistica**: Scaling event-driven IoT systems handling 50K+ daily telemetry events (AWS, Node.js, OpenSearch)
-- 🎮 **Developing Borial Chronicles**: 3D RPG with Godot Engine, Go (Nakama), and FastAPI
+- 🎮 **Developing Borial Chronicles**: 3D ARPG with Godot Engine, Go (Nakama), and FastAPI
 - 🧠 **Ethical Hacking Instructor**: Training corporate banking analysts in network infiltration and vulnerability mitigation.
 
 > *"Debugging complex realities: from thread-safe microservices to zero-trust architectures."*
